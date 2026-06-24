@@ -1,4 +1,4 @@
-export const PAPER_URL = "/second-cast-paper.pdf";
+export const PAPER_URL = `${import.meta.env.BASE_URL}second-cast-paper.pdf`;
 
 export const paperReferences = [
   {
